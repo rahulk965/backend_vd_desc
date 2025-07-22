@@ -8,8 +8,8 @@
   },
   "author": "Rahul Kumar",
   "license": "ISC",
-  "description": ""
-
+  "description": "",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
 }
-
-
